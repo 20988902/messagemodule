@@ -5,6 +5,7 @@ SendMessageModule
 ---------------
 本模块可用于发送邮件和短信。
 
+FROM: https://github.com/hongfeioo/messagemodule
 
 
 调用方法举例
